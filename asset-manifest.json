@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Erste-React_Website/static/css/main.b344d86d.css",
+    "main.js": "/Erste-React_Website/static/js/main.5434ba53.js",
+    "index.html": "/Erste-React_Website/index.html",
+    "main.b344d86d.css.map": "/Erste-React_Website/static/css/main.b344d86d.css.map",
+    "main.5434ba53.js.map": "/Erste-React_Website/static/js/main.5434ba53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b344d86d.css",
+    "static/js/main.5434ba53.js"
+  ]
+}
